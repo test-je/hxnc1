@@ -1,0 +1,20 @@
+
+nangua03.png
+size: 401,137
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gua
+  rotate: false
+  xy: 224, 2
+  size: 175, 133
+  orig: 229, 142
+  offset: 18, 8
+  index: -1
+yezi
+  rotate: false
+  xy: 2, 15
+  size: 220, 120
+  orig: 229, 137
+  offset: 3, 2
+  index: -1

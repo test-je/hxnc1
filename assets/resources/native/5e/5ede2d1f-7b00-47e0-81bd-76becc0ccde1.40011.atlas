@@ -1,0 +1,76 @@
+
+zhu-03.png
+size: 671,217
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: true
+  xy: 484, 2
+  size: 93, 55
+  orig: 95, 57
+  offset: 1, 1
+  index: -1
+er
+  rotate: true
+  xy: 407, 8
+  size: 76, 75
+  orig: 78, 77
+  offset: 1, 1
+  index: -1
+er 2
+  rotate: true
+  xy: 541, 8
+  size: 87, 66
+  orig: 89, 70
+  offset: 1, 2
+  index: -1
+jiao
+  rotate: true
+  xy: 358, 86
+  size: 129, 114
+  orig: 132, 116
+  offset: 2, 1
+  index: -1
+jiao 2
+  rotate: false
+  xy: 564, 102
+  size: 103, 113
+  orig: 105, 115
+  offset: 1, 1
+  index: -1
+shen ti
+  rotate: true
+  xy: 2, 10
+  size: 205, 204
+  orig: 249, 216
+  offset: 1, 11
+  index: -1
+shou
+  rotate: true
+  xy: 474, 97
+  size: 118, 88
+  orig: 120, 90
+  offset: 1, 1
+  index: -1
+shou 2
+  rotate: false
+  xy: 609, 4
+  size: 60, 96
+  orig: 62, 98
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 208, 41
+  size: 174, 148
+  orig: 176, 150
+  offset: 1, 1
+  index: -1
+wei
+  rotate: true
+  xy: 358, 6
+  size: 78, 47
+  orig: 80, 49
+  offset: 1, 1
+  index: -1

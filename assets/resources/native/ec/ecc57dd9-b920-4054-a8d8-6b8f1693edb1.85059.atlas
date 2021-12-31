@@ -1,0 +1,62 @@
+
+zhu-01.png
+size: 393,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bi
+  rotate: false
+  xy: 329, 79
+  size: 55, 47
+  orig: 57, 49
+  offset: 1, 1
+  index: -1
+er
+  rotate: true
+  xy: 252, 2
+  size: 45, 63
+  orig: 47, 65
+  offset: 1, 1
+  index: -1
+er 2
+  rotate: false
+  xy: 317, 3
+  size: 41, 44
+  orig: 43, 47
+  offset: 1, 2
+  index: -1
+shen ti
+  rotate: false
+  xy: 2, 8
+  size: 140, 118
+  orig: 140, 120
+  offset: 0, 2
+  index: -1
+shou
+  rotate: true
+  xy: 252, 49
+  size: 77, 75
+  orig: 79, 77
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 144, 6
+  size: 120, 106
+  orig: 122, 108
+  offset: 1, 1
+  index: -1
+wei
+  rotate: true
+  xy: 360, 20
+  size: 32, 20
+  orig: 34, 22
+  offset: 1, 1
+  index: -1
+yan
+  rotate: false
+  xy: 329, 54
+  size: 62, 23
+  orig: 64, 26
+  offset: 1, 2
+  index: -1

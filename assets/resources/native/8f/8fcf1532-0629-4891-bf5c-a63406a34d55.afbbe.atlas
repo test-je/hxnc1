@@ -1,0 +1,62 @@
+
+小鸡.png
+size: 253,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi
+  rotate: true
+  xy: 148, 58
+  size: 81, 53
+  orig: 83, 55
+  offset: 1, 1
+  index: -1
+chi2
+  rotate: false
+  xy: 148, 3
+  size: 81, 53
+  orig: 83, 55
+  offset: 1, 1
+  index: -1
+dai
+  rotate: true
+  xy: 228, 71
+  size: 33, 23
+  orig: 38, 26
+  offset: 2, 1
+  index: -1
+jiao
+  rotate: true
+  xy: 231, 44
+  size: 25, 20
+  orig: 28, 22
+  offset: 2, 1
+  index: -1
+jiao2
+  rotate: true
+  xy: 231, 112
+  size: 27, 20
+  orig: 29, 23
+  offset: 1, 2
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 2
+  size: 144, 137
+  orig: 145, 137
+  offset: 1, 0
+  index: -1
+yan
+  rotate: true
+  xy: 203, 106
+  size: 33, 26
+  orig: 34, 27
+  offset: 0, 1
+  index: -1
+zui
+  rotate: true
+  xy: 203, 68
+  size: 36, 23
+  orig: 38, 26
+  offset: 1, 1
+  index: -1

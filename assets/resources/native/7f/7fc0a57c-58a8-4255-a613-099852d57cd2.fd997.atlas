@@ -1,0 +1,237 @@
+
+enemy_11.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+frozen_back
+  rotate: false
+  xy: 154, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+enemy_18_dead_1
+  rotate: false
+  xy: 57, 175
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+enemy_18_dead_2
+  rotate: false
+  xy: 57, 110
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+enemy_19_right_arm_2
+  rotate: false
+  xy: 154, 1
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+enemy_19_right_arm_3
+  rotate: false
+  xy: 1, 211
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+enemy_19_right_arm
+  rotate: false
+  xy: 144, 125
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+enemy_19_axe
+  rotate: false
+  xy: 117, 1
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+enemy_19_attack_2
+  rotate: false
+  xy: 1, 110
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+enemy_19_attack_1
+  rotate: false
+  xy: 1, 1
+  size: 59, 107
+  orig: 59, 107
+  offset: 0, 0
+  index: -1
+enemy_19_attack_4
+  rotate: false
+  xy: 113, 125
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+enemy_19_attack_3
+  rotate: false
+  xy: 113, 59
+  size: 43, 64
+  orig: 43, 64
+  offset: 0, 0
+  index: -1
+enemy_19_left_leg_2
+  rotate: false
+  xy: 158, 109
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+enemy_19_left_leg_3
+  rotate: false
+  xy: 38, 211
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+enemy_19_left_leg
+  rotate: false
+  xy: 170, 109
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+enemy_19_right_leg_2
+  rotate: false
+  xy: 158, 94
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+enemy_19_right_leg
+  rotate: false
+  xy: 170, 94
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1
+enemy_19_right_leg_3
+  rotate: false
+  xy: 38, 225
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+enemy_19_body
+  rotate: false
+  xy: 62, 59
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+enemy_19_head
+  rotate: false
+  xy: 62, 1
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+enemy_2_eye_stunned_2
+  rotate: false
+  xy: 147, 231
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+enemy_2_eye_stunned_1
+  rotate: false
+  xy: 38, 239
+  size: 34, 14
+  orig: 34, 14
+  offset: 0, 0
+  index: -1
+enemy_2_eye_stunned_3
+  rotate: false
+  xy: 74, 239
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+enemy_19_eye_shape
+  rotate: false
+  xy: 113, 231
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+enemy_2_left_eyeball
+  rotate: false
+  xy: 172, 170
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+enemy_2_right_eyeball
+  rotate: false
+  xy: 147, 250
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+enemy_19_nose_2
+  rotate: false
+  xy: 158, 75
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+enemy_19_nose
+  rotate: false
+  xy: 144, 170
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+enemy_19_left_arm
+  rotate: false
+  xy: 113, 185
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+enemy_19_left_arm_2
+  rotate: false
+  xy: 158, 39
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+frozen_front
+  rotate: false
+  xy: 154, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+frozen_front_3
+  rotate: false
+  xy: 154, 39
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+frozen_front_1
+  rotate: false
+  xy: 154, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+frozen_front_2
+  rotate: false
+  xy: 154, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fanqie01.png
+size: 295,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mugun
+  rotate: true
+  xy: 2, 2
+  size: 170, 154
+  orig: 172, 168
+  offset: 1, 13
+  index: -1
+yezi
+  rotate: true
+  xy: 158, 10
+  size: 162, 135
+  orig: 167, 144
+  offset: 2, 8
+  index: -1

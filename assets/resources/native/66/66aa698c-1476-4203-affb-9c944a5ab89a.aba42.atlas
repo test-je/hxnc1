@@ -1,0 +1,55 @@
+
+yang-01.png
+size: 475,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+er
+  rotate: false
+  xy: 434, 10
+  size: 39, 40
+  orig: 41, 42
+  offset: 1, 1
+  index: -1
+er2
+  rotate: true
+  xy: 389, 5
+  size: 45, 43
+  orig: 47, 46
+  offset: 1, 2
+  index: -1
+jiao
+  rotate: false
+  xy: 290, 52
+  size: 145, 76
+  orig: 147, 78
+  offset: 1, 1
+  index: -1
+nai
+  rotate: false
+  xy: 290, 5
+  size: 51, 45
+  orig: 53, 47
+  offset: 1, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 12
+  size: 164, 116
+  orig: 166, 118
+  offset: 1, 1
+  index: -1
+tou
+  rotate: true
+  xy: 168, 3
+  size: 125, 120
+  orig: 127, 122
+  offset: 1, 1
+  index: -1
+wei
+  rotate: true
+  xy: 343, 2
+  size: 48, 44
+  orig: 50, 46
+  offset: 1, 1
+  index: -1

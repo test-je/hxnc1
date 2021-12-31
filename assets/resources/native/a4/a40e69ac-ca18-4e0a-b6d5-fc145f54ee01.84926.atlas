@@ -1,0 +1,13 @@
+
+juzi01.png
+size: 161,150
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+juzi01
+  rotate: false
+  xy: 2, 2
+  size: 157, 146
+  orig: 167, 177
+  offset: 3, 13
+  index: -1

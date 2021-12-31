@@ -1,0 +1,13 @@
+
+tudou01.png
+size: 165,114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tudou01
+  rotate: false
+  xy: 2, 2
+  size: 161, 110
+  orig: 163, 113
+  offset: 1, 2
+  index: -1

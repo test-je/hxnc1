@@ -1,0 +1,34 @@
+
+juzi-01.png
+size: 194,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 170, 69
+  size: 22, 78
+  orig: 51, 80
+  offset: 1, 1
+  index: -1
+1
+  rotate: false
+  xy: 2, 2
+  size: 106, 57
+  orig: 112, 60
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 110, 14
+  size: 57, 45
+  orig: 60, 47
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 61
+  size: 166, 86
+  orig: 175, 151
+  offset: 1, 63
+  index: -1

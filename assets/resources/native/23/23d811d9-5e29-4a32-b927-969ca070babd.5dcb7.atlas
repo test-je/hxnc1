@@ -1,0 +1,76 @@
+
+yang.png
+size: 611,206
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 592, 173
+  size: 31, 17
+  orig: 33, 19
+  offset: 1, 1
+  index: -1
+erduo-b
+  rotate: false
+  xy: 525, 57
+  size: 70, 49
+  orig: 74, 51
+  offset: 1, 1
+  index: -1
+erduo-f
+  rotate: true
+  xy: 525, 108
+  size: 96, 65
+  orig: 98, 67
+  offset: 1, 1
+  index: -1
+jiao01
+  rotate: true
+  xy: 331, 3
+  size: 41, 74
+  orig: 45, 78
+  offset: 2, 2
+  index: -1
+jiao02
+  rotate: true
+  xy: 256, 2
+  size: 42, 73
+  orig: 47, 87
+  offset: 2, 1
+  index: -1
+jiao03
+  rotate: true
+  xy: 407, 6
+  size: 38, 78
+  orig: 52, 86
+  offset: 13, 1
+  index: -1
+jiao04
+  rotate: true
+  xy: 487, 14
+  size: 30, 63
+  orig: 34, 68
+  offset: 2, 3
+  index: -1
+lian
+  rotate: true
+  xy: 256, 46
+  size: 158, 267
+  orig: 168, 271
+  offset: 1, 2
+  index: -1
+shenti
+  rotate: false
+  xy: 2, 9
+  size: 252, 195
+  orig: 256, 215
+  offset: 3, 19
+  index: -1
+yanjing
+  rotate: false
+  xy: 552, 4
+  size: 57, 51
+  orig: 59, 53
+  offset: 1, 1
+  index: -1

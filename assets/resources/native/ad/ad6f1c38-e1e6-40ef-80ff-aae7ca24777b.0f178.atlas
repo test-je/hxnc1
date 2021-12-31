@@ -1,0 +1,55 @@
+
+ji-03.png
+size: 236,574
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+前翅膀(2)
+  rotate: true
+  xy: 2, 2
+  size: 127, 131
+  orig: 130, 133
+  offset: 1, 1
+  index: -1
+后翅膀
+  rotate: false
+  xy: 135, 25
+  size: 80, 104
+  orig: 82, 107
+  offset: 1, 2
+  index: -1
+图层 14
+  rotate: true
+  xy: 172, 134
+  size: 38, 42
+  orig: 40, 44
+  offset: 1, 1
+  index: -1
+头
+  rotate: false
+  xy: 2, 131
+  size: 168, 157
+  orig: 170, 159
+  offset: 1, 1
+  index: -1
+眼
+  rotate: true
+  xy: 172, 218
+  size: 70, 58
+  orig: 72, 61
+  offset: 1, 1
+  index: -1
+身体
+  rotate: true
+  xy: 2, 290
+  size: 282, 232
+  orig: 282, 233
+  offset: 0, 1
+  index: -1
+鸡冠
+  rotate: false
+  xy: 172, 174
+  size: 49, 42
+  orig: 51, 44
+  offset: 1, 1
+  index: -1
